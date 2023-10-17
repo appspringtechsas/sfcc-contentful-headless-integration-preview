@@ -1,5 +1,17 @@
 # Salesforce Commerce Cloud (SFCC) to Contentful Headless Integration
 
+**Note:** This repository is a preview of the SFCC to Contentful Headless Integration. The purpose of this repository is to allow future customers to see the file structure of the package and to access the README and see how the package works and what features provides. The available files in this preview are:
+
+- [category-content-type](./scripts/category-content-type.js)
+- [blogpost-embed](./src/components/blogpost-embed/index.jsx)
+- [contentful-fetch](./src/contentful-manager/contentful-fetch.js)
+- [blogpost-detail](./src/pages/blogpost-detail/index.jsx)
+- [blogpost-embed theme](./src/theme/components/blogpost-embed.js)
+- [blogpost-detail theme](./src/theme/pages/blogpost-detail.js)
+- [main index file](./src/index.jsx)
+- [blogpost-detail test](./tests/src/pages/blogpost-detail/index-blogpost-detail.test.jsx)
+- [blogpost-detail theme test](./tests/src/theme/pages/blogpost-detail.test.js)
+
 SFCC Contentful Headless Integration is a package that integrates Salesforce Commerce Cloud Composable Storefront with Contentful CMS. SFCC Contentful Headless Integration offers multiple React components which add blog posts functionalities to the headless storefront of Salesforce.
 
 ## Prerequisites
