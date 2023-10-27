@@ -12,7 +12,7 @@
 - [blogpost-detail test](./tests/src/pages/blogpost-detail/index-blogpost-detail.test.jsx)
 - [blogpost-detail theme test](./tests/src/theme/pages/blogpost-detail.test.js)
 
-SFCC Contentful Headless Integration is a package that integrates Salesforce Commerce Cloud Composable Storefront with Contentful CMS. SFCC Contentful Headless Integration offers multiple React components which add blog posts functionalities to the headless storefront of Salesforce.
+SFCC Contentful Headless Integration is a package that integrates both Salesforce Commerce Cloud Composable Storefront and SFRA with Contentful CMS. SFCC Contentful Headless Integration offers multiple React components which add blog posts functionalities to the headless storefront of Salesforce.
 
 ## Prerequisites
 
